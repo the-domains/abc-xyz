@@ -1,0 +1,23 @@
+name: ABC.xyz
+favicon: null
+layout_spectrum: 0.8023615533020347
+typography_spectrum: 0.5545239485800266
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3219313742592931
+  lightness: 0.3211585208773613
+  saturation: 0.8968681471887976
+  rhythmicContrast: 0.49031688389368355
+purpose: []
